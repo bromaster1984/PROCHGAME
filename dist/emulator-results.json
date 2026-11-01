@@ -1,0 +1,24 @@
+{
+  "emulator": "apple2js enhanced IIe + AppleMouse slot 4",
+  "cpuMHz": 1.023,
+  "checks": [
+    "disk boot",
+    "mouse detection",
+    "premature exit blocked",
+    "complete point and click path",
+    "save/reset/load",
+    "ending"
+  ],
+  "state": [
+    2,
+    127,
+    14,
+    1,
+    0,
+    3,
+    1,
+    0
+  ],
+  "tested_at": "2026-11-01",
+  "disk_sha256": "3bb929a0e4fa4cdbc67cb543cdeb42171fcb603a9b75f24c5cf6d679cae985f5"
+}

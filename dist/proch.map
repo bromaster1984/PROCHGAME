@@ -1,0 +1,969 @@
+Modules list:
+-------------
+game.c.33895.0.o:
+    CODE              Offs=000000  Size=00119C  Align=00001  Fill=0000
+    RODATA            Offs=000000  Size=000EF8  Align=00001  Fill=0000
+    DATA              Offs=000000  Size=0000BD  Align=00001  Fill=0000
+mouse.s.33895.1.o:
+    CODE              Offs=00119C  Size=0000FC  Align=00001  Fill=0000
+    BSS               Offs=000000  Size=000006  Align=00001  Fill=0000
+    HGR               Offs=000000  Size=002000  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(_cursor.o):
+    BSS               Offs=000006  Size=000001  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(_directerrno.o):
+    CODE              Offs=001298  Size=000009  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(_heap.o):
+    DATA              Offs=0000BD  Size=00000A  Align=00001  Fill=0000
+    ONCE              Offs=000000  Size=000010  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(_mappederrno.o):
+    CODE              Offs=0012A1  Size=00000F  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(_oserror.o):
+    BSS               Offs=000007  Size=000001  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(_seterrno.o):
+    CODE              Offs=0012B0  Size=000009  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(add.o):
+    CODE              Offs=0012B9  Size=000018  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(addeqsp.o):
+    CODE              Offs=0012D1  Size=000011  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(addysp.o):
+    CODE              Offs=0012E2  Size=00000E  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(aslax2.o):
+    CODE              Offs=0012F0  Size=00000B  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(aslax3.o):
+    CODE              Offs=0012FB  Size=00000E  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(aslax4.o):
+    CODE              Offs=001309  Size=000011  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(bneg.o):
+    CODE              Offs=00131A  Size=00000E  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(callmain.o):
+    CODE              Offs=001328  Size=000045  Align=00001  Fill=0000
+    DATA              Offs=0000C7  Size=000004  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(cgetc.o):
+    CODE              Offs=00136D  Size=00002E  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(close.o):
+    CODE              Offs=00139B  Size=00001C  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(clrscr.o):
+/workspace/tools/cc65/lib/apple2enh.lib(compl.o):
+    CODE              Offs=0013B7  Size=000009  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(condes.o):
+    CODE              Offs=0013C0  Size=00000C  Align=00001  Fill=0000
+    DATA              Offs=0000CB  Size=000025  Align=00001  Fill=0000
+    ONCE              Offs=000010  Size=00000C  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(cout.o):
+    LOWCODE           Offs=000000  Size=00000A  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(cputc.o):
+    CODE              Offs=0013CC  Size=00006F  Align=00001  Fill=0000
+    ONCE              Offs=00001C  Size=000007  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(crt0.o):
+    CODE              Offs=00143B  Size=00001E  Align=00001  Fill=0000
+    RODATA            Offs=000EF8  Size=000007  Align=00001  Fill=0000
+    DATA              Offs=0000F0  Size=000003  Align=00001  Fill=0000
+    STARTUP           Offs=000000  Size=00000C  Align=00001  Fill=0000
+    ONCE              Offs=000023  Size=000083  Align=00001  Fill=0000
+    INIT              Offs=000000  Size=00001D  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(decax1.o):
+    CODE              Offs=001459  Size=000007  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(decax2.o):
+    CODE              Offs=001460  Size=000007  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(decax4.o):
+    CODE              Offs=001467  Size=000007  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(decax6.o):
+    CODE              Offs=00146E  Size=000007  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(decaxy.o):
+    CODE              Offs=001475  Size=000009  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(decsp1.o):
+    CODE              Offs=00147E  Size=000009  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(decsp3.o):
+    CODE              Offs=001487  Size=00000D  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(decsp4.o):
+    CODE              Offs=001494  Size=00000D  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(decsp6.o):
+    CODE              Offs=0014A1  Size=00000D  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(decsp7.o):
+    CODE              Offs=0014AE  Size=00000D  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(div.o):
+    CODE              Offs=0014BB  Size=000015  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(dosdetect.o):
+    DATA              Offs=0000F3  Size=000001  Align=00001  Fill=0000
+    ONCE              Offs=0000A6  Size=000014  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(errno.o):
+    BSS               Offs=000008  Size=000002  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(exehdr.o):
+    EXEHDR            Offs=000000  Size=00003A  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(filedes.o):
+    CODE              Offs=0014D0  Size=000016  Align=00001  Fill=0000
+    DATA              Offs=0000F4  Size=000020  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(filename.o):
+    CODE              Offs=0014E6  Size=00006F  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(free.o):
+    CODE              Offs=001555  Size=0001D3  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(gotoxy.o):
+    CODE              Offs=001728  Size=000019  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(home.o):
+    LOWCODE           Offs=00000A  Size=00000A  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(icmp.o):
+    CODE              Offs=001741  Size=00002E  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(incax8.o):
+    CODE              Offs=00176F  Size=000005  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(incaxy.o):
+    CODE              Offs=001774  Size=00000B  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(incsp1.o):
+    CODE              Offs=00177F  Size=000007  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(incsp2.o):
+    CODE              Offs=001786  Size=000015  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(incsp3.o):
+    CODE              Offs=00179B  Size=000005  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(incsp4.o):
+    CODE              Offs=0017A0  Size=000005  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(incsp5.o):
+    CODE              Offs=0017A5  Size=000005  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(incsp6.o):
+    CODE              Offs=0017AA  Size=000005  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(incsp7.o):
+    CODE              Offs=0017AF  Size=000005  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(incsp8.o):
+    CODE              Offs=0017B4  Size=000005  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(iobuf.o):
+/workspace/tools/cc65/lib/apple2enh.lib(kbhit.o):
+    CODE              Offs=0017B9  Size=000009  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(lc-copy-applesoft.o):
+/workspace/tools/cc65/lib/apple2enh.lib(ldaxi.o):
+    CODE              Offs=0017C2  Size=00000D  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(ldaxsp.o):
+    CODE              Offs=0017CF  Size=000009  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(ldptr1sp.o):
+    CODE              Offs=0017D8  Size=00000C  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(leaaxsp.o):
+    CODE              Offs=0017E4  Size=00000C  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(makebool.o):
+    CODE              Offs=0017F0  Size=00002C  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(malloc.o):
+    CODE              Offs=00181C  Size=000110  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(memcpy.o):
+    CODE              Offs=00192C  Size=00003C  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(memset.o):
+    CODE              Offs=001968  Size=00005D  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(mli.o):
+    BSS               Offs=00000A  Size=000012  Align=00001  Fill=0000
+    DATA              Offs=000114  Size=000024  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(mli_set_pathname.o):
+    CODE              Offs=0019C5  Size=00000B  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(mod.o):
+    CODE              Offs=0019D0  Size=000011  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(mul8.o):
+    CODE              Offs=0019E1  Size=00003A  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(mulax10.o):
+    CODE              Offs=001A1B  Size=000019  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(mulax7.o):
+    CODE              Offs=001A34  Size=000019  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(negabs.o):
+    CODE              Offs=001A4D  Size=000012  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(open.o):
+    CODE              Offs=001A5F  Size=0000EA  Align=00001  Fill=0000
+    DATA              Offs=000138  Size=000009  Align=00001  Fill=0000
+    ONCE              Offs=0000BA  Size=000009  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(oserror.o):
+    CODE              Offs=001B49  Size=000016  Align=00001  Fill=0000
+    RODATA            Offs=000EFF  Size=000032  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(pmemalign.o):
+    CODE              Offs=001B5F  Size=0001DC  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(popa.o):
+    CODE              Offs=001D3B  Size=00000A  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(popptr1.o):
+    CODE              Offs=001D45  Size=00000E  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(pusha.o):
+    CODE              Offs=001D53  Size=000016  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(pushax.o):
+    CODE              Offs=001D69  Size=00001A  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(pushw.o):
+    CODE              Offs=001D83  Size=00000F  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(pushwsp.o):
+    CODE              Offs=001D92  Size=00001C  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(rdkey.o):
+    LOWCODE           Offs=000014  Size=00000A  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(read.o):
+    CODE              Offs=001DAE  Size=000058  Align=00001  Fill=0000
+    ONCE              Offs=0000C3  Size=000007  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(rwcommon.o):
+    CODE              Offs=001E06  Size=000033  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(shelp.o):
+    CODE              Offs=001E39  Size=000020  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(shl.o):
+    CODE              Offs=001E59  Size=000030  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(staspidx.o):
+    CODE              Offs=001E89  Size=000016  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(staxsp.o):
+    CODE              Offs=001E9F  Size=00000B  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(staxspi.o):
+    CODE              Offs=001EAA  Size=00001A  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(strlen.o):
+    CODE              Offs=001EC4  Size=000016  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(sub.o):
+    CODE              Offs=001EDA  Size=000014  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(subeqsp.o):
+    CODE              Offs=001EEE  Size=000015  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(subysp.o):
+    CODE              Offs=001F03  Size=00000D  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(udiv.o):
+    CODE              Offs=001F10  Size=00004F  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(vtabz.o):
+    LOWCODE           Offs=00001E  Size=00000A  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(write.o):
+    CODE              Offs=001F5F  Size=00006A  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(xor.o):
+    CODE              Offs=001FC9  Size=000011  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(zerobss.o):
+    CODE              Offs=001FDA  Size=000023  Align=00001  Fill=0000
+/workspace/tools/cc65/lib/apple2enh.lib(zeropage.o):
+    ZEROPAGE          Offs=000000  Size=00001A  Align=00001  Fill=0000
+
+
+Segment list:
+-------------
+Name                   Start     End    Size  Align
+----------------------------------------------------
+ZEROPAGE              000080  000099  00001A  00001
+EXEHDR                0007C9  000802  00003A  00001
+STARTUP               000803  00080E  00000C  00001
+LOWCODE               00080F  000836  000028  00001
+HGR                   002000  003FFF  002000  00001
+CODE                  004000  005FFC  001FFD  00001
+RODATA                005FFD  006F2F  000F33  00001
+DATA                  006F30  007070  000141  00001
+INIT                  007071  00708D  00001D  00001
+BSS                   00708E  0070A9  00001C  00001
+ONCE                  00708E  007161  0000D4  00001
+
+
+Exports list by name:
+---------------------
+COUT                      00080F RLA    HOME                      000819 RLA    
+RDKEY                     000823 RLA    VTABZ                     00082D RLA    
+__BSS_RUN__               00708E RLA    __BSS_SIZE__              00001C REA    
+__CONSTRUCTOR_COUNT__     000005 REA    __CONSTRUCTOR_TABLE__     007158 RLA    
+__DESTRUCTOR_COUNT__      000001 REA    __DESTRUCTOR_TABLE__      006F2E RLA    
+__EXEHDR__                000001 REA    __FILETYPE__              000006 REA    
+__HIMEM__                 009600 REA    __LCADDR__                00D400 REA    
+__LCSIZE__                000C00 REA    __LC_LAST__               00D400 RLA    
+__LC_START__              00D400 RLA    __MAIN_LAST__             007162 RLA    
+__MAIN_START__            000803 RLA    __ONCE_LOAD__             00708E RLA    
+__ONCE_RUN__              00708E RLA    __ONCE_SIZE__             0000D4 REA    
+__STACKSIZE__             000800 REA    __STARTUP__               000001 REA    
+___bzero                  005968 RLA    ___directerrno            005298 RLA    
+___errno                  007096 RLA    ___heapend                006FF1 RLA    
+___heapfirst              006FF3 RLA    ___heaplast               006FF5 RLA    
+___heapptr                006FEF RLA    ___mappederrno            0052A1 RLA    
+___oserror                007095 RLA    ___osmaperrno             005B49 RLA    
+___seterrno               0052B0 RLA    __dos_type                007023 RLA    
+_cgetc                    00536D RLA    _close                    00539B RLA    
+_clrscr                   000819 RLA    _exit                     00533F RLA    
+_free                     005555 RLA    _kbhit                    0057B9 RLA    
+_main                     004E7A RLA    _malloc                   00581C RLA    
+_memcpy                   00592C RLA    _mouse_button             007092 RLA    
+_mouse_x                  00708E RLA    _mouse_y                  007090 RLA    
+_native_init              00519C RLA    _native_move              005242 RLA    
+_native_poll              005262 RLA    _open                     005A5F RLA    
+_posix_memalign           005B5F RLA    _read                     005DAE RLA    
+_strlen                   005EC4 RLA    _write                    005F5F RLA    
+addeqysp                  0052D3 RLA    addysp                    0052E3 RLA    
+addysp1                   0052E2 RLA    aslax2                    0052F0 RLA    
+aslax3                    0052FB RLA    aslax4                    005309 RLA    
+aslaxy                    005E60 RLA    bltu2                     00D39A RLA    
+bnega                     00531E RLA    booleq                    0057F6 RLA    
+c_sp                      000080 RLZ    callmain                  005328 RLA    
+callmli                   007044 RLA    closeallfiles             005B3B  LAI   
+closedirect               005B31 RLA    complax                   0053B7 RLA    
+cursor                    007094 RLA    decax1                    005459 RLA    
+decax2                    005460 RLA    decax4                    005467 RLA    
+decax6                    00546E RLA    decaxy                    005475 RLA    
+decsp1                    00547E RLA    decsp3                    005487 RLA    
+decsp4                    005494 RLA    decsp6                    0054A1 RLA    
+decsp7                    0054AE RLA    done                      007020 RLA    
+donelib                   0053C0 RLA    fdtab                     007024 RLA    
+freebuffer                005B29 RLA    getfd                     0054D0 RLA    
+gotoxy                    005728 RLA    incax4                    005774 RLA    
+incax8                    00576F RLA    incaxy                    005776 RLA    
+incsp1                    00577F RLA    incsp2                    00578D RLA    
+incsp3                    00579B RLA    incsp4                    0057A0 RLA    
+incsp5                    0057A5 RLA    incsp6                    0057AA RLA    
+incsp7                    0057AF RLA    incsp8                    0057B4 RLA    
+initconio                 0070AA  LAI   initdostype               007134  LAI   
+initheap                  00708E  LAI   initlib                   00709E RLA    
+initprompt                007151  LAI   iobuf_alloc               005B5F RLA    
+iobuf_free                005555 RLA    ldax0sp                   0057CF RLA    
+ldaxi                     0057C2 RLA    ldaxidx                   0057C4 RLA    
+ldaxysp                   0057D1 RLA    ldptr10sp                 0057D8 RLA    
+ldptr1ysp                 0057DA RLA    leaa0sp                   0057E4 RLA    
+leaaxsp                   0057E6 RLA    mli_set_pathname_tos      0059C5 RLA    
+mliparam                  007098 RLA    mulax10                   005A1B RLA    
+mulax7                    005A34 RLA    negax                     005A51 RLA    
+popa                      005D3B RLA    popax                     005786 RLA    
+popname                   005550 RLA    popptr1                   005D45 RLA    
+popsargsudiv16            005E39 RLA    ptr1                      000088 RLZ    
+ptr2                      00008A RLZ    ptr3                      00008C RLZ    
+ptr4                      00008E RLZ    pusha                     005D57 RLA    
+pusha0                    005D6B RLA    pushax                    005D6D RLA    
+pushname_tos              0054E6 RLA    pushw                     005D83 RLA    
+pushwysp                  005D94 RLA    putchardirect             005418 RLA    
+raisefilelevel            007148  LAI   regbank                   000094 RLZ    
+reset                     00543B RLA    rvsave                    00708B RLA    
+rwcommon                  005E13 RLA    rwepilog                  005E2C RLA    
+rwprolog                  005E06 RLA    shlax3                    0052FB RLA    
+sreg                      000082 RLZ    staspidx                  005E89 RLA    
+stax0sp                   005E9F RLA    staxspidx                 005EAA RLA    
+staxysp                   005EA1 RLA    subeqysp                  005EF0 RLA    
+subysp                    005F03 RLA    tmp1                      000090 RLZ    
+tmp2                      000091 RLZ    tmp3                      000092 RLZ    
+tosaddax                  0052BB RLA    tosaslax                  005E59 RLA    
+tosdiva0                  0054BB RLA    tosicmp                   005743 RLA    
+tosmoda0                  0059D0 RLA    tosmula0                  0059E1 RLA    
+tossubax                  005EDC RLA    tosxorax                  005FCB RLA    
+udiv16                    005F21 RLA    zerobss                   005FDA RLA    
+zpsave                    007071 RLA    
+
+
+Exports list by value:
+----------------------
+__DESTRUCTOR_COUNT__      000001 REA    __EXEHDR__                000001 REA    
+__STARTUP__               000001 REA    __CONSTRUCTOR_COUNT__     000005 REA    
+__FILETYPE__              000006 REA    __BSS_SIZE__              00001C REA    
+c_sp                      000080 RLZ    sreg                      000082 RLZ    
+ptr1                      000088 RLZ    ptr2                      00008A RLZ    
+ptr3                      00008C RLZ    ptr4                      00008E RLZ    
+tmp1                      000090 RLZ    tmp2                      000091 RLZ    
+tmp3                      000092 RLZ    regbank                   000094 RLZ    
+__ONCE_SIZE__             0000D4 REA    __STACKSIZE__             000800 REA    
+__MAIN_START__            000803 RLA    COUT                      00080F RLA    
+HOME                      000819 RLA    _clrscr                   000819 RLA    
+RDKEY                     000823 RLA    VTABZ                     00082D RLA    
+__LCSIZE__                000C00 REA    _main                     004E7A RLA    
+_native_init              00519C RLA    _native_move              005242 RLA    
+_native_poll              005262 RLA    ___directerrno            005298 RLA    
+___mappederrno            0052A1 RLA    ___seterrno               0052B0 RLA    
+tosaddax                  0052BB RLA    addeqysp                  0052D3 RLA    
+addysp1                   0052E2 RLA    addysp                    0052E3 RLA    
+aslax2                    0052F0 RLA    aslax3                    0052FB RLA    
+shlax3                    0052FB RLA    aslax4                    005309 RLA    
+bnega                     00531E RLA    callmain                  005328 RLA    
+_exit                     00533F RLA    _cgetc                    00536D RLA    
+_close                    00539B RLA    complax                   0053B7 RLA    
+donelib                   0053C0 RLA    putchardirect             005418 RLA    
+reset                     00543B RLA    decax1                    005459 RLA    
+decax2                    005460 RLA    decax4                    005467 RLA    
+decax6                    00546E RLA    decaxy                    005475 RLA    
+decsp1                    00547E RLA    decsp3                    005487 RLA    
+decsp4                    005494 RLA    decsp6                    0054A1 RLA    
+decsp7                    0054AE RLA    tosdiva0                  0054BB RLA    
+getfd                     0054D0 RLA    pushname_tos              0054E6 RLA    
+popname                   005550 RLA    _free                     005555 RLA    
+iobuf_free                005555 RLA    gotoxy                    005728 RLA    
+tosicmp                   005743 RLA    incax8                    00576F RLA    
+incax4                    005774 RLA    incaxy                    005776 RLA    
+incsp1                    00577F RLA    popax                     005786 RLA    
+incsp2                    00578D RLA    incsp3                    00579B RLA    
+incsp4                    0057A0 RLA    incsp5                    0057A5 RLA    
+incsp6                    0057AA RLA    incsp7                    0057AF RLA    
+incsp8                    0057B4 RLA    _kbhit                    0057B9 RLA    
+ldaxi                     0057C2 RLA    ldaxidx                   0057C4 RLA    
+ldax0sp                   0057CF RLA    ldaxysp                   0057D1 RLA    
+ldptr10sp                 0057D8 RLA    ldptr1ysp                 0057DA RLA    
+leaa0sp                   0057E4 RLA    leaaxsp                   0057E6 RLA    
+booleq                    0057F6 RLA    _malloc                   00581C RLA    
+_memcpy                   00592C RLA    ___bzero                  005968 RLA    
+mli_set_pathname_tos      0059C5 RLA    tosmoda0                  0059D0 RLA    
+tosmula0                  0059E1 RLA    mulax10                   005A1B RLA    
+mulax7                    005A34 RLA    negax                     005A51 RLA    
+_open                     005A5F RLA    freebuffer                005B29 RLA    
+closedirect               005B31 RLA    closeallfiles             005B3B  LAI   
+___osmaperrno             005B49 RLA    _posix_memalign           005B5F RLA    
+iobuf_alloc               005B5F RLA    popa                      005D3B RLA    
+popptr1                   005D45 RLA    pusha                     005D57 RLA    
+pusha0                    005D6B RLA    pushax                    005D6D RLA    
+pushw                     005D83 RLA    pushwysp                  005D94 RLA    
+_read                     005DAE RLA    rwprolog                  005E06 RLA    
+rwcommon                  005E13 RLA    rwepilog                  005E2C RLA    
+popsargsudiv16            005E39 RLA    tosaslax                  005E59 RLA    
+aslaxy                    005E60 RLA    staspidx                  005E89 RLA    
+stax0sp                   005E9F RLA    staxysp                   005EA1 RLA    
+staxspidx                 005EAA RLA    _strlen                   005EC4 RLA    
+tossubax                  005EDC RLA    subeqysp                  005EF0 RLA    
+subysp                    005F03 RLA    udiv16                    005F21 RLA    
+_write                    005F5F RLA    tosxorax                  005FCB RLA    
+zerobss                   005FDA RLA    __DESTRUCTOR_TABLE__      006F2E RLA    
+___heapptr                006FEF RLA    ___heapend                006FF1 RLA    
+___heapfirst              006FF3 RLA    ___heaplast               006FF5 RLA    
+done                      007020 RLA    __dos_type                007023 RLA    
+fdtab                     007024 RLA    callmli                   007044 RLA    
+zpsave                    007071 RLA    rvsave                    00708B RLA    
+__BSS_RUN__               00708E RLA    __ONCE_LOAD__             00708E RLA    
+__ONCE_RUN__              00708E RLA    _mouse_x                  00708E RLA    
+initheap                  00708E  LAI   _mouse_y                  007090 RLA    
+_mouse_button             007092 RLA    cursor                    007094 RLA    
+___oserror                007095 RLA    ___errno                  007096 RLA    
+mliparam                  007098 RLA    initlib                   00709E RLA    
+initconio                 0070AA  LAI   initdostype               007134  LAI   
+raisefilelevel            007148  LAI   initprompt                007151  LAI   
+__CONSTRUCTOR_TABLE__     007158 RLA    __MAIN_LAST__             007162 RLA    
+__HIMEM__                 009600 REA    bltu2                     00D39A RLA    
+__LCADDR__                00D400 REA    __LC_LAST__               00D400 RLA    
+__LC_START__              00D400 RLA    
+
+
+Imports list:
+-------------
+COUT (cout.o):
+    write.o                   apple2/write.s:9
+    read.o                    apple2/read.s:10
+HOME (home.o):
+    clrscr.o                  apple2/clrscr.s:8
+RDKEY (rdkey.o):
+    read.o                    apple2/read.s:10
+VTABZ (vtabz.o):
+    gotoxy.o                  apple2/gotoxy.s:9
+    cputc.o                   apple2/cputc.s:13
+__BSS_RUN__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    zerobss.o                 common/zerobss.s:8
+__BSS_SIZE__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    zerobss.o                 common/zerobss.s:8
+__CONSTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__CONSTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:18
+__DESTRUCTOR_COUNT__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__DESTRUCTOR_TABLE__ ([linker generated]):
+    condes.o                  runtime/condes.s:19
+__EXEHDR__ (exehdr.o):
+    [linker generated]        /workspace/tools/cc65/cfg/apple2enh-hgr.cfg:7
+__FILETYPE__ ([linker generated]):
+    exehdr.o                  apple2/exehdr.s:9
+__HIMEM__ ([linker generated]):
+    [linker generated]        /workspace/tools/cc65/cfg/apple2enh-hgr.cfg:18
+    [linker generated]        /workspace/tools/cc65/cfg/apple2enh-hgr.cfg:17
+__LCADDR__ ([linker generated]):
+    [linker generated]        /workspace/tools/cc65/cfg/apple2enh-hgr.cfg:19
+__LCSIZE__ ([linker generated]):
+    [linker generated]        /workspace/tools/cc65/cfg/apple2enh-hgr.cfg:19
+__LC_LAST__ ([linker generated]):
+    crt0.o                    apple2/crt0.s:15
+__LC_START__ ([linker generated]):
+    crt0.o                    apple2/crt0.s:15
+__MAIN_LAST__ ([linker generated]):
+    exehdr.o                  apple2/exehdr.s:10
+__MAIN_START__ ([linker generated]):
+    exehdr.o                  apple2/exehdr.s:10
+__ONCE_LOAD__ ([linker generated]):
+    crt0.o                    apple2/crt0.s:14
+__ONCE_RUN__ ([linker generated]):
+    [linker generated]        /workspace/tools/cc65/cfg/apple2enh-hgr.cfg:18
+    [linker generated]        /workspace/tools/cc65/cfg/apple2enh-hgr.cfg:18
+__ONCE_SIZE__ ([linker generated]):
+    crt0.o                    apple2/crt0.s:14
+__STACKSIZE__ ([linker generated]):
+    _heap.o                   common/_heap.s:8
+    [linker generated]        /workspace/tools/cc65/cfg/apple2enh-hgr.cfg:18
+__STARTUP__ (crt0.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:13
+___bzero (memset.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+___directerrno (_directerrno.o):
+    write.o                   /workspace/tools/cc65/asminc/errno.inc:10
+    read.o                    /workspace/tools/cc65/asminc/errno.inc:10
+    open.o                    /workspace/tools/cc65/asminc/errno.inc:10
+    close.o                   /workspace/tools/cc65/asminc/errno.inc:10
+___errno (errno.o):
+    _seterrno.o               /workspace/tools/cc65/asminc/errno.inc:7
+___heapend (_heap.o):
+    malloc.o                  /workspace/tools/cc65/asminc/_heap.inc:33
+___heapfirst (_heap.o):
+    malloc.o                  /workspace/tools/cc65/asminc/_heap.inc:34
+    free.o                    /workspace/tools/cc65/asminc/_heap.inc:34
+___heaplast (_heap.o):
+    malloc.o                  /workspace/tools/cc65/asminc/_heap.inc:35
+    free.o                    /workspace/tools/cc65/asminc/_heap.inc:35
+___heapptr (_heap.o):
+    malloc.o                  /workspace/tools/cc65/asminc/_heap.inc:32
+    free.o                    /workspace/tools/cc65/asminc/_heap.inc:32
+___mappederrno (_mappederrno.o):
+    write.o                   /workspace/tools/cc65/asminc/errno.inc:10
+    rwcommon.o                /workspace/tools/cc65/asminc/errno.inc:10
+    open.o                    /workspace/tools/cc65/asminc/errno.inc:10
+    close.o                   /workspace/tools/cc65/asminc/errno.inc:10
+___oserror (_oserror.o):
+    _mappederrno.o            /workspace/tools/cc65/asminc/errno.inc:7
+    _directerrno.o            /workspace/tools/cc65/asminc/errno.inc:7
+    rwcommon.o                /workspace/tools/cc65/asminc/errno.inc:7
+    read.o                    /workspace/tools/cc65/asminc/errno.inc:7
+    open.o                    /workspace/tools/cc65/asminc/errno.inc:7
+___osmaperrno (oserror.o):
+    _mappederrno.o            /workspace/tools/cc65/asminc/errno.inc:8
+___seterrno (_seterrno.o):
+    _mappederrno.o            /workspace/tools/cc65/asminc/errno.inc:9
+    _directerrno.o            /workspace/tools/cc65/asminc/errno.inc:9
+__dos_type (dosdetect.o):
+    mli.o                     apple2/mli.s:7
+    open.o                    apple2/open.s:12
+_cgetc (cgetc.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:16
+_close (close.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:18
+_clrscr (clrscr.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:14
+_exit (callmain.o):
+    crt0.o                    apple2/crt0.s:11
+_free (free.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:19
+    iobuf.o                   apple2/iobuf.s:8
+_kbhit (kbhit.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:15
+_main (game.c.33895.0.o):
+    callmain.o                apple2/callmain.s:12
+_malloc (malloc.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:18
+_memcpy (memcpy.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:22
+_mouse_button (mouse.s.33895.1.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:29
+_mouse_x (mouse.s.33895.1.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:27
+_mouse_y (mouse.s.33895.1.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:28
+_native_init (mouse.s.33895.1.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:24
+_native_move (mouse.s.33895.1.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:26
+_native_poll (mouse.s.33895.1.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:25
+_open (open.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:17
+_posix_memalign (pmemalign.o):
+    iobuf.o                   apple2/iobuf.s:8
+_read (read.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:20
+_strlen (strlen.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:21
+_write (write.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:19
+addeqysp (addeqsp.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+addysp (addysp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    filename.o                apple2/filename.s:8
+    open.o                    apple2/open.s:14
+    incsp8.o                  runtime/incsp8.s:8
+    incsp7.o                  runtime/incsp7.s:8
+    incsp6.o                  runtime/incsp6.s:8
+    incsp5.o                  runtime/incsp5.s:8
+    incsp4.o                  runtime/incsp4.s:8
+    incsp3.o                  runtime/incsp3.s:8
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+addysp1 (addysp.o):
+    sub.o                     runtime/sub.s:8
+    xor.o                     runtime/xor.s:9
+aslax2 (aslax2.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+aslax3 (aslax3.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+aslax4 (aslax4.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+aslaxy (shl.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+bltu2 (lc-copy-applesoft.o):
+    crt0.o                    apple2/crt0.s:13
+bnega (bneg.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+booleq (makebool.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+c_sp (zeropage.o):
+    _heap.o                   common/_heap.s:9
+    subeqsp.o                 runtime/subeqsp.s:8
+    sub.o                     runtime/sub.s:9
+    staxspi.o                 runtime/staxspi.s:10
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:10
+    mli_set_pathname.o        /workspace/tools/cc65/asminc/zeropage.inc:11
+    incsp2.o                  runtime/incsp2.s:8
+    filename.o                /workspace/tools/cc65/asminc/zeropage.inc:11
+    callmain.o                /workspace/tools/cc65/asminc/zeropage.inc:11
+    xor.o                     runtime/xor.s:10
+    subysp.o                  runtime/subysp.s:9
+    staxsp.o                  runtime/staxsp.s:8
+    staspidx.o                runtime/staspidx.s:9
+    pushwsp.o                 runtime/pushwsp.s:8
+    pushax.o                  runtime/pushax.s:8
+    pusha.o                   runtime/pusha.s:8
+    popptr1.o                 runtime/popptr1.s:9
+    popa.o                    runtime/popa.s:8
+    memset.o                  common/memset.s:20
+    memcpy.o                  common/memcpy.s:15
+    leaaxsp.o                 runtime/leaaxsp.s:8
+    ldptr1sp.o                runtime/ldptr1sp.s:8
+    ldaxsp.o                  runtime/ldaxsp.s:8
+    incsp1.o                  runtime/incsp1.s:8
+    icmp.o                    runtime/icmp.s:9
+    decsp7.o                  runtime/decsp7.s:8
+    decsp6.o                  runtime/decsp6.s:8
+    decsp4.o                  runtime/decsp4.s:8
+    decsp3.o                  runtime/decsp3.s:8
+    decsp1.o                  runtime/decsp1.s:8
+    crt0.o                    /workspace/tools/cc65/asminc/zeropage.inc:11
+    addysp.o                  runtime/addysp.s:8
+    addeqsp.o                 runtime/addeqsp.s:8
+    add.o                     runtime/add.s:12
+    game.c.33895.0.o          dist/game.c.33895.0.s:10
+callmain (callmain.o):
+    crt0.o                    apple2/crt0.s:12
+callmli (mli.o):
+    filename.o                apple2/mli.inc:148
+    write.o                   apple2/mli.inc:148
+    rwcommon.o                apple2/mli.inc:148
+    open.o                    apple2/mli.inc:148
+closedirect (open.o):
+    close.o                   apple2/close.s:9
+complax (compl.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+cursor (_cursor.o):
+    cgetc.o                   apple2/cgetc.s:14
+decax1 (decax1.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+decax2 (decax2.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+decax4 (decax4.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+decax6 (decax6.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+decaxy (decaxy.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+decsp1 (decsp1.o):
+    filename.o                apple2/filename.s:8
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+decsp3 (decsp3.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+decsp4 (decsp4.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+decsp6 (decsp6.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+decsp7 (decsp7.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+done (crt0.o):
+    callmain.o                apple2/callmain.s:12
+donelib (condes.o):
+    callmain.o                apple2/callmain.s:12
+fdtab (filedes.o):
+    write.o                   apple2/filedes.inc:13
+    read.o                    apple2/filedes.inc:13
+    open.o                    apple2/filedes.inc:13
+    close.o                   apple2/filedes.inc:13
+freebuffer (open.o):
+    close.o                   apple2/close.s:9
+getfd (filedes.o):
+    rwcommon.o                apple2/filedes.inc:14
+    close.o                   apple2/filedes.inc:14
+gotoxy (gotoxy.o):
+    cputc.o                   apple2/cputc.s:13
+incax4 (incaxy.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+incax8 (incax8.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+incaxy (incaxy.o):
+    open.o                    apple2/open.s:14
+    incax8.o                  runtime/incax8.s:8
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+incsp1 (incsp1.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+incsp2 (incsp2.o):
+    staxspi.o                 runtime/staxspi.s:9
+    staspidx.o                runtime/staspidx.s:8
+    popptr1.o                 runtime/popptr1.s:8
+incsp3 (incsp3.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+incsp4 (incsp4.o):
+    open.o                    apple2/open.s:14
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+incsp5 (incsp5.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+incsp6 (incsp6.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+incsp7 (incsp7.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+incsp8 (incsp8.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+initlib (condes.o):
+    crt0.o                    apple2/crt0.s:11
+iobuf_alloc (iobuf.o):
+    open.o                    apple2/open.s:13
+iobuf_free (iobuf.o):
+    open.o                    apple2/open.s:13
+ldax0sp (ldaxsp.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+ldaxi (ldaxi.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+ldaxidx (ldaxi.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+ldaxysp (ldaxsp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+ldptr10sp (ldptr1sp.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+ldptr1ysp (ldptr1sp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+leaa0sp (leaaxsp.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+leaaxsp (leaaxsp.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+mli_set_pathname_tos (mli_set_pathname.o):
+    open.o                    apple2/open.s:12
+mliparam (mli.o):
+    mli_set_pathname.o        apple2/mli.inc:147
+    filename.o                apple2/mli.inc:147
+    write.o                   apple2/mli.inc:147
+    rwcommon.o                apple2/mli.inc:147
+    open.o                    apple2/mli.inc:147
+mulax10 (mulax10.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+mulax7 (mulax7.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+negax (negabs.o):
+    shelp.o                   runtime/shelp.s:11
+    mod.o                     runtime/mod.s:11
+    div.o                     runtime/div.s:11
+popa (popa.o):
+    gotoxy.o                  apple2/gotoxy.s:9
+popax (incsp2.o):
+    filename.o                apple2/filename.s:8
+    shl.o                     runtime/shl.s:15
+    shelp.o                   runtime/shelp.s:11
+    rwcommon.o                apple2/rwcommon.s:6
+    open.o                    apple2/open.s:14
+    memset.o                  common/memset.s:19
+    memcpy.o                  common/memcpy.s:14
+popname (filename.o):
+    open.o                    apple2/open.s:12
+popptr1 (popptr1.o):
+    udiv.o                    runtime/udiv.s:9
+    rwcommon.o                apple2/rwcommon.s:6
+    mul8.o                    runtime/mul8.s:9
+    memcpy.o                  common/memcpy.s:14
+popsargsudiv16 (shelp.o):
+    mod.o                     runtime/mod.s:11
+    div.o                     runtime/div.s:11
+ptr1 (zeropage.o):
+    malloc.o                  common/malloc.s:108
+    free.o                    common/free.s:62
+    staxspi.o                 runtime/staxspi.s:10
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:11
+    filename.o                /workspace/tools/cc65/asminc/zeropage.inc:12
+    zerobss.o                 common/zerobss.s:9
+    write.o                   /workspace/tools/cc65/asminc/zeropage.inc:12
+    udiv.o                    runtime/udiv.s:10
+    staspidx.o                runtime/staspidx.s:9
+    shelp.o                   runtime/shelp.s:12
+    rwcommon.o                /workspace/tools/cc65/asminc/zeropage.inc:12
+    read.o                    /workspace/tools/cc65/asminc/zeropage.inc:12
+    pushw.o                   runtime/pushw.s:9
+    popptr1.o                 runtime/popptr1.s:9
+    mulax7.o                  runtime/mulax7.s:10
+    mulax10.o                 runtime/mulax10.s:9
+    mul8.o                    runtime/mul8.s:10
+    memset.o                  common/memset.s:20
+    memcpy.o                  common/memcpy.s:15
+    ldptr1sp.o                runtime/ldptr1sp.s:8
+    ldaxi.o                   runtime/ldaxi.s:8
+    div.o                     runtime/div.s:12
+    mouse.s.33895.1.o         /workspace/tools/cc65/asminc/zeropage.inc:12
+    game.c.33895.0.o          dist/game.c.33895.0.s:11
+ptr2 (zeropage.o):
+    malloc.o                  common/malloc.s:108
+    free.o                    common/free.s:62
+    write.o                   /workspace/tools/cc65/asminc/zeropage.inc:12
+    rwcommon.o                /workspace/tools/cc65/asminc/zeropage.inc:12
+    read.o                    /workspace/tools/cc65/asminc/zeropage.inc:12
+    memset.o                  common/memset.s:20
+    memcpy.o                  common/memcpy.s:15
+ptr3 (zeropage.o):
+    malloc.o                  common/malloc.s:108
+    free.o                    common/free.s:62
+    read.o                    /workspace/tools/cc65/asminc/zeropage.inc:12
+    memset.o                  common/memset.s:20
+    memcpy.o                  common/memcpy.s:15
+ptr4 (zeropage.o):
+    free.o                    common/free.s:62
+    udiv.o                    runtime/udiv.s:10
+    strlen.o                  common/strlen.s:12
+    shelp.o                   runtime/shelp.s:12
+    mul8.o                    runtime/mul8.s:10
+pusha (pusha.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+pusha0 (pushax.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+pushax (pushax.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    callmain.o                apple2/callmain.s:12
+    pushw.o                   runtime/pushw.s:8
+    open.o                    apple2/open.s:14
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+pushname_tos (filename.o):
+    open.o                    apple2/open.s:12
+pushw (pushw.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+pushwysp (pushwsp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+putchardirect (cputc.o):
+    cgetc.o                   apple2/cgetc.s:14
+regbank (zeropage.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:10
+reset (crt0.o):
+    callmain.o                apple2/callmain.s:13
+rvsave (crt0.o):
+    callmain.o                apple2/callmain.s:13
+rwcommon (rwcommon.o):
+    write.o                   apple2/write.s:8
+    read.o                    apple2/read.s:9
+rwepilog (rwcommon.o):
+    write.o                   apple2/write.s:8
+rwprolog (rwcommon.o):
+    write.o                   apple2/write.s:8
+    read.o                    apple2/read.s:9
+shlax3 (aslax3.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+sreg (zeropage.o):
+    udiv.o                    runtime/udiv.s:10
+    mod.o                     runtime/mod.s:12
+    icmp.o                    runtime/icmp.s:9
+    game.c.33895.0.o          dist/game.c.33895.0.s:10
+staspidx (staspidx.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+stax0sp (staxsp.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+staxspidx (staxspi.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+staxysp (staxsp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+subeqysp (subeqsp.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+subysp (subysp.o):
+    filename.o                apple2/filename.s:8
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+tmp1 (zeropage.o):
+    staxspi.o                 runtime/staxspi.s:10
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:11
+    filename.o                /workspace/tools/cc65/asminc/zeropage.inc:13
+    xor.o                     runtime/xor.s:10
+    staspidx.o                runtime/staspidx.s:9
+    shl.o                     runtime/shl.s:16
+    shelp.o                   runtime/shelp.s:12
+    open.o                    /workspace/tools/cc65/asminc/zeropage.inc:13
+    mod.o                     runtime/mod.s:12
+    incaxy.o                  runtime/incaxy.s:8
+    div.o                     runtime/div.s:12
+    decaxy.o                  runtime/decaxy.s:8
+    aslax4.o                  runtime/aslax4.s:8
+    aslax3.o                  runtime/aslax3.s:8
+    aslax2.o                  runtime/aslax2.s:8
+tmp2 (zeropage.o):
+    shelp.o                   runtime/shelp.s:12
+    open.o                    /workspace/tools/cc65/asminc/zeropage.inc:13
+    div.o                     runtime/div.s:12
+tmp3 (zeropage.o):
+    open.o                    /workspace/tools/cc65/asminc/zeropage.inc:13
+    cputc.o                   /workspace/tools/cc65/asminc/zeropage.inc:13
+    cgetc.o                   /workspace/tools/cc65/asminc/zeropage.inc:13
+tosaddax (add.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+tosaslax (shl.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+tosdiva0 (div.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+tosicmp (icmp.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+tosmoda0 (mod.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+tosmula0 (mul8.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+tossubax (sub.o):
+    pmemalign.o               ../libwrk/apple2enh/pmemalign.s:331
+tosxorax (xor.o):
+    game.c.33895.0.o          dist/game.c.33895.0.s:3213
+udiv16 (udiv.o):
+    shelp.o                   runtime/shelp.s:11
+zerobss (zerobss.o):
+    crt0.o                    apple2/crt0.s:12
+zpsave (crt0.o):
+    callmain.o                apple2/callmain.s:13
+
